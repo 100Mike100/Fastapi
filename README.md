@@ -12,9 +12,9 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
 
 ### Tecnologias
 ***
-* [Python]() : Version 3.13.1
+* [Python](https://www.python.org/downloads/) : Version 3.13.1
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/): Version 4.36.0.0
-* [Visual Studio Code]() : Version 1.96.1
+* [Visual Studio Code](https://code.visualstudio.com) : Version 1.96.1
 ***
 
 ### Instrucciones
