@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  scanner:
+    image: image-scanner
+    build: .
+    container_name: scanner-application
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
