@@ -2,8 +2,9 @@
 
 1. [Información General](#información-general)
 2. [Tecnologias](#tecnologias)
-3. [Instrucciones](#instrucciones)
-4. []
+3. [Instrucciones](#instrucciones-de-compilación)
+4. [Prueba de escaneo](#prueba-de-escaneo)
+5. [Prueba de reporte](#prueba-de-reporte)
 
 ### Información General
 ***
@@ -17,7 +18,7 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
 * [Visual Studio Code](https://code.visualstudio.com) : Version 1.96.1
 ***
 
-### Instrucciones
+### Instrucciones de compilación
 ***
 1. Acceder al correo y aceptar la inviaticion al repositorio
 2. Clonar repositorio localmente
@@ -50,6 +51,31 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
     ![image](https://github.com/user-attachments/assets/d0febc20-a102-4acf-969c-42be7ee9a333)
 
 14. Pegamos el dato y damos clic en botón azul Execute
+    ![image](https://github.com/user-attachments/assets/cdacaa7b-f78f-4819-9f4f-8595f48e5e65)
+    ![image](https://github.com/user-attachments/assets/5c8bb31e-4c39-469b-8de1-8c9af3966356)
+    ![image](https://github.com/user-attachments/assets/5a9f561b-7a87-475a-be61-f12f792c3ff4)
+***
+
+### Prueba de escaneo
+***
+1. Clic en /scanner, se despliegan informacion y dar clic en botón "Try it out"
+   ![image](https://github.com/user-attachments/assets/4998e78f-0802-49a3-9254-ffdc479204ed)
+2. Clic en selecionar archivo y eligimos archivo a escanear
+    ![image](https://github.com/user-attachments/assets/bc57c0ce-f6a6-49ad-82d5-797180dce2e9)
+3. Clic en boton azul Execute para ver la info del escaneo
+    ![image](https://github.com/user-attachments/assets/48796d8c-f2e8-4d1d-bd58-e1edcaf50094)
+    ![image](https://github.com/user-attachments/assets/ccc9da7a-073a-44c1-970b-74a8baf0a298)
+***
+
+### Prueba de reporte
+***
+1. Para el reporte copiamos el dato resource
+   ![image](https://github.com/user-attachments/assets/5a5c3dcf-727a-4b09-b039-4fc39c1cd302)
+2. Desplegamos /report/{resourceScan} y dar clic en botón "Try it out"
+    ![image](https://github.com/user-attachments/assets/ab3d8b67-e2a8-4cf5-9cf0-3c8172d828b0)
+    ![image](https://github.com/user-attachments/assets/d0febc20-a102-4acf-969c-42be7ee9a333)
+
+3. Pegamos el dato y damos clic en botón azul Execute
     ![image](https://github.com/user-attachments/assets/cdacaa7b-f78f-4819-9f4f-8595f48e5e65)
     ![image](https://github.com/user-attachments/assets/5c8bb31e-4c39-469b-8de1-8c9af3966356)
     ![image](https://github.com/user-attachments/assets/5a9f561b-7a87-475a-be61-f12f792c3ff4)
