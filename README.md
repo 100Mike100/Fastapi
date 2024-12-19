@@ -1,8 +1,8 @@
 ## Tablas de contenido
 
-1. [Información General](# Información General)
-2. [Tecnologias]
-3. [Instrucciones]
+1. [Información General](#información-general)
+2. [Tecnologias](#tecnologias)
+3. [Instrucciones](#instrucciones)
 4. []
 
 ### Información General
