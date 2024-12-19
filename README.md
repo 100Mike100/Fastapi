@@ -22,8 +22,8 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
 1. Acceder al correo y aceptar la inviaticion al repositorio
 2. Clonar repositorio localmente
 3. Abrir el proyecto desde un editor de codigo (VS code)
-  3.1 Ubicarse en la carpeta del proyecto (Fastapi) y abrir una terminal
-  3.2 Escribir el siguiente comando "docker-compose up", con este comando se estara ejecutando el proyecto
-  3.3 Abrir un navegador y pegar la siguiente url:  http://localhost:8000/docs, aqui se visualiza la documentacion de la API y se realizan pruebas
-5. Se anexa archivo con imagenes
+4. Ubicarse en la carpeta del proyecto (Fastapi) y abrir una terminal
+5. Escribir el siguiente comando "docker-compose up", con este comando se estara ejecutando el proyecto
+6. Abrir un navegador y pegar la siguiente url:  http://localhost:8000/docs, aqui se visualiza la documentacion de la API y se realizan pruebas
+7. Se anexa archivo con imagenes
 ***
