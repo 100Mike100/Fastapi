@@ -44,7 +44,7 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
     ![image](https://github.com/user-attachments/assets/48796d8c-f2e8-4d1d-bd58-e1edcaf50094)
     ![image](https://github.com/user-attachments/assets/ccc9da7a-073a-44c1-970b-74a8baf0a298)
 11. Para el reporte copiamos el dato resource
-   ![image](https://github.com/user-attachments/assets/d66622f9-e186-424c-8f66-a4059497c35d)
+   ![image](https://github.com/user-attachments/assets/5a5c3dcf-727a-4b09-b039-4fc39c1cd302)
 12. Desplegamos /report/{resourceScan} y dar clic en botón "Try it out"
     ![image](https://github.com/user-attachments/assets/ab3d8b67-e2a8-4cf5-9cf0-3c8172d828b0)
     ![image](https://github.com/user-attachments/assets/d0febc20-a102-4acf-969c-42be7ee9a333)
