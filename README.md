@@ -1,6 +1,6 @@
 ## Tablas de contenido
 
-1. [Información General]
+1. [Información General](# Información General)
 2. [Tecnologias]
 3. [Instrucciones]
 4. []
@@ -53,9 +53,4 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
     ![image](https://github.com/user-attachments/assets/cdacaa7b-f78f-4819-9f4f-8595f48e5e65)
     ![image](https://github.com/user-attachments/assets/5c8bb31e-4c39-469b-8de1-8c9af3966356)
     ![image](https://github.com/user-attachments/assets/5a9f561b-7a87-475a-be61-f12f792c3ff4)
-
-
-
-
-
 ***
