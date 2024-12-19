@@ -36,5 +36,15 @@ Cración de API en contenedor mediante FastAPI que permite cargar archivos y esc
 7. Abrir un navegador y pegar la siguiente url:  http://localhost:8000/docs, aqui se visualiza la documentacion de la API y se realizan pruebas
     ![image](https://github.com/user-attachments/assets/ee5236b6-5bee-4946-af93-b0e9ef84784a)
 
-8. Se anexa archivo con imagenes
+8. Clic en /scanner, se despliegan informacion y dar clic en botón "Try it out"
+   ![image](https://github.com/user-attachments/assets/4998e78f-0802-49a3-9254-ffdc479204ed)
+9. Clic en selecionar archivo y eligimos archivo a escanear
+    ![image](https://github.com/user-attachments/assets/bc57c0ce-f6a6-49ad-82d5-797180dce2e9)
+10. Clic en boton azul Execute para ver la info del escaneo
+    ![image](https://github.com/user-attachments/assets/48796d8c-f2e8-4d1d-bd58-e1edcaf50094)
+11. En la terminal estara mostrando mensajes
+    ![image](https://github.com/user-attachments/assets/ccc9da7a-073a-44c1-970b-74a8baf0a298)
+
+
+
 ***
